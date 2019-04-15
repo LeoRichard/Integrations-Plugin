@@ -11,7 +11,7 @@ Adds portfolio functionality to your WordPress website.
 
 == Description ==
 
-HQ Integrations adds 'integrations' post type with two taxonomies (Category and Tag). It also adds custom metabox with three fields: 'Client', 'Date' and 'URL'.
+HQ Integrations adds 'integrations' post type with two taxonomies (Category and Tag). It also adds custom metabox with three fields: 'Client' and 'URL'.
 
 == Installation ==
 
@@ -53,48 +53,17 @@ This plugin is actually inspired by Jetpack portfolio module and [Portfolio Post
 
 There are three meta boxes at the moment:
 **Client** - Client name for the project (e.g. Apple)
-**Date** - Release date of the project (e.g. June 2015)
 **URL** - Link to a live project (e.g. http://www.apple.com/)
 
 = Does this plugin include any templates? =
 
 No, it doesn't. However, you can easily create your own in your theme (or child theme).
 
-= Can I participate? =
-
-Absolutely. You are welcome to report issues and submit pull requests on [Github](https://github.com/iamdmitrymayorov/hq-integrations).
-
 == Screenshots ==
 
 1. Project Details metabox
 
 == Changelog ==
-
-== 0.1.6 ==
-
-* Added: Compatibility with WordPress 5.0
-
-== 0.1.5 ==
-
-* Fixed: Minor Codesniffer warnings
-* Changed: Portfolio taxonomy labels
-
-== 0.1.4 ==
-
-* Fixed: Minor Codesniffer warnings
-* Added: Compatibility with WordPress 4.5
-
-== 0.1.3 ==
-
-* Fixed: Minor improvements and bug fixes
-
-== 0.1.2 ==
-
-* Added: Compatibility with WordPress 4.3
-
-== 0.1.1 ==
-
-* Fixed: Minor codesniffer warnings
 
 == 0.1.0 ==
 
